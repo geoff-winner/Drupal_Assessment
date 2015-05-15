@@ -1,5 +1,5 @@
 ###Developers
-Marc Lee, Geoff Winner, Brett Moore, Connor Abdelnoor, Tanner Heffner
+Geoff Winner
 
 ###Date
 May 15, 2015
