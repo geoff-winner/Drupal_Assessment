@@ -16,6 +16,8 @@ BookStore site with book reviews and more.
 The DB name is assessment
 The Username for the DB and Site is assessment
 The password for the DB and Site is drupal
+The Username for the Reviewer is Reviewer
+The password for the Reviewer is drupal
 
 ###Copyright (c) 2015 Geoff Winner
 
